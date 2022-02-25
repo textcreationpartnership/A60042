@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the true state of the case of the Suedish Merchant-fleet lately brought up, on their voyage from France, by Admiral Rooke, and sent into Plimouth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60042</idno>
+            <idno type="STC">Wing S3544A</idno>
+            <idno type="STC">ESTC R11326</idno>
+            <idno type="EEBO-CITATION">11910450</idno>
+            <idno type="OCLC">ocm 11910450</idno>
+            <idno type="VID">50788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the true state of the case of the Suedish Merchant-fleet lately brought up, on their voyage from France, by Admiral Rooke, and sent into Plimouth.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Eliz. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Merchant ships --  Sweden.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50788:1" rendition="simple:additions"/>
+            <p>A SHORT ACCOUNT OF THE True State OF THE CASE OF THE <hi>SUEDISH</hi> Merchant-Fleet, Lately brought up, on their Voyage from <hi>France,</hi> by Admiral <hi>Rooke,</hi> and ſent in<g ref="char:EOLhyphen"/>to <hi>Plimouth.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed; And are to be Sold by <hi>Eliz. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50788:2"/>
+            <pb n="1" facs="tcp:50788:2"/>
+            <p>A SHORT ACCOUNT OF THE True State OF THE CASE OF THE <hi>S<g ref="char:V">Ʋ</g>EDISH</hi> Merchant-Fleet, <hi>&amp;c.</hi>
+            </p>
+            <p>§. I. WHereas the <hi>Suediſh</hi> Merchant-Ships, lately taken as Prizes, upon their Voyage from <hi>France,</hi> and ſent into <hi>Plimouth</hi> by Admi<g ref="char:EOLhyphen"/>ral <hi>Rooke,</hi> give Occaſion to various Diſ<g ref="char:EOLhyphen"/>courſes and Judgments amongſt States-men, as well as Mer<g ref="char:EOLhyphen"/>chants, 'tis hoped, that it will be no leſs acceptable to the Curious, than ſatisfactory to ſuch as are well affected to Ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="2" facs="tcp:50788:3"/>to give an impartial and exact Account of the true State of the Caſe, to the end the World may be acquainted with the weighty and juſt Reaſons for which the ſaid Fleet was ſtop'd, and ſince has been judicially examin'd, and pro<g ref="char:EOLhyphen"/>ceeded againſt; ſo that all who are not unconcern'd for the common Welfare, may be ſatisfied of the gret and irrepa<g ref="char:EOLhyphen"/>rable Damage the Allies have ſuſtain'd by thoſe Self-Intereſt<g ref="char:EOLhyphen"/>ed People, that have been clandeſtinely aiding and aſſiſting <hi>France</hi> in executing its Craft and Cunning, by impoſing upon others.</p>
+            <p>§ II. In order to which, the Peruſal of the enſuing Ac<g ref="char:EOLhyphen"/>count will make us hereafter leſs ſollicitous in enquiring the true Reaſon, why <hi>France</hi> has been able to carry on ſo great and chargeable a War, againſt ſo powerful Enemies, with ſo much Vigour as it has done hitherto, at a Time when their Outward Trade (which ever has been accounted the Life of that Country, and the only Improvement of its Wealth) was, as generally believed, either much leſſen'd, or, in reſpect to ſome Places, utterly loſt.</p>
+            <p>§. III. For, in as much as the Unqueſtionable and Impar<g ref="char:EOLhyphen"/>tial Proofs which were brought to Light at the Trials of the ſaid <hi>Suediſh</hi> Merchant-Fleet, by the ſeveral <hi>Suediſh</hi> Merchants own Letters, and Original Writings, do (tho' almoſt too late) make it evident, that <hi>France,</hi> in reſpect of its Trade, has been leſſen'd in the Number of Shipping, but not in the Sales of their Commodities, and ſending and conveying them to other Countries; whereby the <hi>Suedes</hi> have ſupplied the Want of their Ships, by furniſhing the <hi>French</hi> with their own: So that the <hi>French</hi> have not ſo much left off the Sale and Tranſportation of their Goods and Products, as chang'd the Way and Manner of it. All which did tend to the Unretrievable Damage of all the Allies, but eſpecially of the <hi>Engliſh.</hi>
+            </p>
+            <pb n="3" facs="tcp:50788:3"/>
+            <p>§. IV. <hi>France,</hi> indeed, could find no more proper Me<g ref="char:EOLhyphen"/>thod for holding up its Commerce to the Eaſt Countries, (where, by the Imperial Avocatorial Orders, all the Hanſe-Towns are forbidden, upon great Penalties, to entertain the ſame,) than by engaging the <hi>Suedes</hi> to aſſiſt them therein, becauſe the <hi>French</hi> Goods might, by that Means, be ſafely convey'd in <hi>Suediſh</hi> Ships; and under their Paſſes, on pre<g ref="char:EOLhyphen"/>text of being <hi>Suediſh</hi> Effects, Imported into the ſaid Hanſe-Towns, without the leaſt Hindrance, or Moleſtation: Which did give no leſs Encouragement to the covetous Owners of the Ships, who, under that Colour of being <hi>Suedes,</hi> could ſave the Cuſtoms payable in the <hi>Soundt,</hi> than an Immenſe Ad<g ref="char:EOLhyphen"/>vantage to the <hi>French</hi> Trade.</p>
+            <p>§. V. In which Subtilty of the <hi>French,</hi> the <hi>Suedes</hi> have been the eaſier prevail'd with to aſſiſt them, becauſe they were ſure they could do it with more Gain, and leſs Fear, than other Nations: Wherein, however, they were not ſa<g ref="char:EOLhyphen"/>tisfied to carry on this unlawful Trade only in thoſe Towns, which, being ſituated in the Empire, belong to the Crown of <hi>Suedeland,</hi> as <hi>Stetin, Stade, Wiſmar, Stralſund, &amp;c.</hi> con<g ref="char:EOLhyphen"/>trary to the Imperial Avocatories publiſh'd againſt it; but they went on farther in it, and engaged alſo with Merchants of the Free Imperial Towns, <hi>viz. Lubeck; Hambourgh, Emden,</hi> and others; nay, (which is more particularly againſt the Treaties and ſolemn Convention with <hi>England</hi>) with the <hi>French</hi> themſelves, to aſſiſt them in their Trade, not only in Trafficking with the Eaſt-Land Countries, but alſo in <hi>France</hi> it ſelf, by conveying their Goods from one <hi>French</hi> Port to an<g ref="char:EOLhyphen"/>other, in <hi>Suediſh</hi> Ships, and under the Favour of <hi>Suediſh</hi> Paſ<g ref="char:EOLhyphen"/>ſes, <hi>ſub &amp; obreptitie</hi> obtain'd for that purpoſe.</p>
+            <p>§. VI. And this foul and unlawful Practice has been, eſpe<g ref="char:EOLhyphen"/>cially of late, manag'd with ſo much Art, that it is become
+<pb n="4" facs="tcp:50788:4"/>a difficult Matter to find out all the Tricks uſed therein, by reaſon of the equal Covetouſneſs wherein the <hi>Suede</hi> did join with the other Merchant, his Correſpondent, in improving their unlawful Gain; no Oath being ſo ſacred with them, nor prevailing enough, to diſcover the Intrigue wherein they ſo cloſely adhered one to another; inſomuch that the <hi>Suede</hi> oftentimes made no Scruple to lend only his Name to the Ship<g ref="char:punc">▪</g> and under that Colour, did get the Paſſes for its ſe<g ref="char:EOLhyphen"/>cure Voyage.</p>
+            <p>§ VII. But to facilitate the obtaining of the ſaid Paſſes, they uſed the following Contrivance, <hi>viz.</hi> The <hi>Suede</hi> did build a Ship, of more or leſs Tuns, on his own Account; whereupon, he could ſafely make Oath before the Magiſtrate, that that ſame Ship was his own, and did really belong to him, and was built at his proper Coſt and Charges; and thereupon he obtain'd a Paſs for the ſaid Ship, as being a <hi>Suediſh<g ref="char:punc">▪</g>
+               </hi> Ship, built in <hi>Suedeland,</hi> and belonging to one of that King's Subjects. This being done, the <hi>Suede</hi> ſold and tranſported the very ſame Ship to a <hi>Dutch, Lubeck,</hi> or <hi>Ham<g ref="char:EOLhyphen"/>bourgh</hi>-Merchant; who, in Conſideration of the other's Ser<g ref="char:EOLhyphen"/>vice, did give him one Quarter, or Eighth Part, (as they could beſt agree upon) in the ſaid Ship, on Condition that the <hi>Suede</hi> ſhould always provide new Paſſes as often as there ſhould be Occaſion for them, and that the ſaid Ship ſhould always go under the <hi>Suede</hi>'s Name, and by that Means traf<g ref="char:EOLhyphen"/>fick unmoleſted, to and with <hi>France:</hi> Which Practice, the <hi>Suede</hi> flatter'd himſelf, that he might ſecurely enough con<g ref="char:EOLhyphen"/>tinue, without acting thereby againſt his Conſcience, or com<g ref="char:EOLhyphen"/>mitting the leaſt Perjury by ſo doing; there being no Occa<g ref="char:EOLhyphen"/>ſion, according to the Cuſtom and Laws of that Country, to make Oath a-freſh upon every other Voyage, for getting of new Paſſes, becauſe the firſt Oath will ſuffiſe for good and all: So that by this Mental Reſervation, the <hi>Suede</hi> could ob<g ref="char:EOLhyphen"/>tain as many Paſſes as he pleas'd; and for all that, his Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="5" facs="tcp:50788:4"/>not concern'd in the leaſt thereby. Nay, by the Proofs made againſt the ſaid <hi>Suediſh</hi> Fleet, taken from their own Hand-writings, Books and Letters, now under exami<g ref="char:EOLhyphen"/>nation in the Court of Admiralty, it does manifeſtly appear, that, to take off all Suſpicion, and to obviate all Objections and Dangers that might befall ſuch a Ship, the Foreign Mer<g ref="char:EOLhyphen"/>chant order'd the <hi>Suede</hi> to make a Bill of Sale of the Ship, in the <hi>Suede</hi>'s own Name, though he had not the leaſt Right to the ſaid Ship, nor did any Part therein belong to him.</p>
+            <p>§. VIII. Another Artifice has alſo been uſed, the more ea<g ref="char:EOLhyphen"/>ſily to obtain the Paſſes in <hi>Stockholm, viz.</hi> Some of thoſe Foreign Merchants ſent their Servants thither, to be there made Burghers <hi>pro forma;</hi> and by thoſe Means they pro<g ref="char:EOLhyphen"/>cur'd the Paſſes, although ſuch Servant had neither Eſtate nor Money for himſelf, but was ſupply'd by his Maſter, who liv'd either in <hi>Holland,</hi> or <hi>Lubeck,</hi> or <hi>Hamburgh,</hi> or elſewhere, upon whoſe Account this glorious Trade was car<g ref="char:EOLhyphen"/>ried on.</p>
+            <p>§. IX. This being the very Caſe of the <hi>Suediſh</hi> Merchant-Fleet, now in Debate, as is manifeſt by examining the ſe<g ref="char:EOLhyphen"/>veral Letters and Papers which have been found on Board the ſaid Ships, in great Numbers, there being above <hi>Four Hundred</hi> material Letters and Papers to evidence the ſame, it is not credible that any Body Papers to evidence the ſame, it is not credible that any Body ſhould have Confidence enough to contradict ſo evident a Truth, unleſs it were one, who, together with his Conſcience, has alſo loſt all his Shame and Bluſhing.</p>
+            <p>§. X. In the mean time, theſe few following. Au<g ref="char:EOLhyphen"/>thentick Extracts from ſome of the aboveſaid great Num<g ref="char:EOLhyphen"/>bers of Letters and Papers, together with other ſub<g ref="char:EOLhyphen"/>ſtantial Proofs, will be ſufficient to juſtifie a Sentence
+<pb n="6" facs="tcp:50788:5"/>againſt this foul and vile Practice, hitherto uſed with <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Seqvuntur Epiſtolae ſub finem additae.</hi>
+            </p>
+            <p>
+               <hi>Numb.</hi> 3.5.6.7.8.11.34.35.37.39.40.45.53. <hi>&amp;c.</hi>
+            </p>
+            <p>§. XI. By ſuch, and the like Solid and moſt convincing Proofs, which partly appear by the foregoing Extracts of the Merchants Letters, written by their own Hands; and part<g ref="char:EOLhyphen"/>ly may be drawn from the Tranſlations of the Proceedings in <hi>Doctors Commens,</hi> before the Court of Admiralty; all which here to inſert, would be too Voluminous, and even too Superfluous a Work: It is plain, and without any Queſtion, that the ſeveral Owners of the ſaid <hi>Suediſh</hi> Mer<g ref="char:EOLhyphen"/>chant-ſhips have their Abode and Families, not in <hi>Suede<g ref="char:EOLhyphen"/>land,</hi> but in <hi>France, Holland, Lubeck, Hambourgh, Emden,</hi> or <hi>Oſtend;</hi> nay, even in <hi>Scotland;</hi> although they go under <hi>Sue<g ref="char:EOLhyphen"/>diſh</hi> Paſſes and Names; wherefore they have <hi>Double Bills</hi> of Lading, and their Goods <hi>double</hi> mark'd, <hi>viz.</hi> On the Hogſheads of Wine or Brandy, <hi>&amp;c.</hi> the one Mark on the Bunghole of the Fatt, being <hi>pro forma,</hi> for the Merchant in <hi>Stockholm;</hi> and the other on the Head of the ſame Fat, for the right Owner, either at <hi>Lubeck, Hambourgh, Dunkirk, &amp;c.</hi> By theſe undeniable Proofs, it appears likewiſe, what Courſe was to be taken for Reclaiming ſuch Ships, in caſe they ſhould have the Miſchance to fall into the <hi>Engliſh</hi> Hands, and to be brought in Queſtion in <hi>England;</hi> namely, The <hi>Suediſh</hi> Merchant did oblige himſelf to reclaim theſe Ships and Goods, as being his own, and to ſtand to all Danger of being made Prizes, on Condition his Correſpondence, who were the right Owners thereof, did allow him Two <hi>per Cent.</hi> to get the Ship and Goods clear under the <hi>Suediſh</hi> Name.</p>
+            <p>§. XII. This having been the Intent and Practice to ſe<g ref="char:EOLhyphen"/>cure the Concerns of the aforeſaid Fleet, the only Cuſtoms
+<pb n="7" facs="tcp:50788:5"/>whereof will bring in the King Two Hundred Thouſand Pounds, and more, any May of Senſe may conclude from thence, of what incredible Advantage this Way of Trading, under pretext of being <hi>Suediſh</hi> Ships, and that the Goods be<g ref="char:EOLhyphen"/>longed to <hi>Sueden,</hi> muſt have been yearly to <hi>France;</hi> and what irreparable Damage the Allies, on the other ſide, but chiefly <hi>England,</hi> muſt have ſuſtain'd during the War; ſince it may be made good, and proved, if need be, that ſome Hundreds of Ships, yearly, have come from, or gone to <hi>France,</hi> under <hi>Suediſh</hi> Convoys, whereof oftentimes not Ten in an Hun<g ref="char:EOLhyphen"/>dred were real <hi>Suedes,</hi> or did really belong to <hi>Suediſh</hi> Sub<g ref="char:EOLhyphen"/>jects, or were actually to unload in <hi>Suedeland,</hi> though they all had <hi>Suediſh</hi> Paſſes; and yet their Goods were to be car<g ref="char:EOLhyphen"/>ried to, and unladen in Places prohibited to entertain any ſuch Commerce.</p>
+            <p>§. XIII. Hence it has frequently happen'd, that under ſuch Practices, a Ship being ſeized in <hi>England,</hi> and after<g ref="char:EOLhyphen"/>wards reclaim'd by Colour of her Paſſes, the cunning Con<g ref="char:EOLhyphen"/>trivance whereof was not a thing ſo eaſie to be diſcover'd hitherto, was diſcharg'd; which, as aboveſaid, did coſt the real Owners at <hi>Lubeck, Hambourgh, Stade, &amp;c.</hi> no more than Two <hi>per Cent;</hi> whereas the ſame Ship might have been a very good and lawful Prize here.</p>
+            <p>§. XIV. But this pretended <hi>Suediſh</hi> Fleet is like to pay the Piper, with their Ships and Goods; to which the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> ſeem to have more than a ſingle Right and Claim, be<g ref="char:EOLhyphen"/>cauſe, beſides the exquiſite <hi>French</hi> Wines, Brandy, Moloſſus, Paper, and other Commodities, which the ſaid Ships are la<g ref="char:EOLhyphen"/>den with, there are alſo great Quantities of Indico, Tobac<g ref="char:EOLhyphen"/>co, Sugar, and ſome Muſlins, on Board them; whereof, the laſt mention'd Goods have been, for the moſt part, taken, as Prize, from the <hi>Engliſh,</hi> by the <hi>French;</hi> and do, by the Re<g ref="char:EOLhyphen"/>volutions of Things, now return to their former Owners
+<pb n="8" facs="tcp:50788:6"/>again. There are alſo ſeveral other Goods, which, under the Name of Merchandizes, were deliver'd to the Maſters of the Ships, who took them in, not knowing what they were: Nor can that be diſcover'd before Search made, Trial and Condemnation.</p>
+            <p>§. XV. This therefore is the true State of the Caſe of the pretended <hi>Suediſh</hi> Merchant-Fleet, lately brought to <hi>England,</hi> which gives Occaſion to ſo many and various Diſcourſes at preſent, and for which the <hi>Suediſh</hi> Party ſo grievouſly com<g ref="char:EOLhyphen"/>plains of hard Uſage: Whereof, that the Truth may be known, this ſhort Account will be ſufficient for the Reader's Cu<g ref="char:EOLhyphen"/>rioſity, and Impartial Judgment.</p>
+            <closer>Fiat Juſtitia, &amp; pereat Mundus.</closer>
+         </div>
+         <div type="appendix">
+            <pb n="9" facs="tcp:50788:6"/>
+            <head>APPENDIX OF THE Above mention'd LETTERS.</head>
+            <p>
+               <label>Numb. 3.</label> A Letter from <hi>John Died-Doberik,</hi> (at <hi>Lubeck,</hi>) written to his Brother <hi>John Conrad Doberik,</hi> (at preſent in <hi>London,</hi>) that he has ſold One Eighth Part of <hi>Henry Scult</hi>'s Ship to <hi>Treſcow</hi> and <hi>Dreyer,</hi> in <hi>Amſterdam;</hi> and One Eighth Part to Meſſieurs <hi>Vander<g ref="char:EOLhyphen"/>haguen</hi> and <hi>Rebault.</hi>
+            </p>
+            <p>
+               <label>Numb. 5.</label> A Letter from Monſieur <hi>Vanderhaguen,</hi> of <hi>Bourdeaux,</hi> dated the 2d of <hi>August,</hi> 1696. to <hi>Conrad Doberik,</hi> that his Brother of <hi>Stockholm</hi> has written to Monſieur <hi>Vanderhaguen,</hi> that he had bought a Ship of Two Decks, whereof the ſaid Monſieur <hi>Vanderhaguen</hi> of <hi>Bourdeaux</hi> has One Third Part.</p>
+            <p>
+               <label>Numb. 6.</label> A Letter from <hi>Paulus Hunsburgh,</hi> from <hi>Stralſound,</hi> dated the 30th of <hi>March,</hi> 1697. to <hi>John Conrad Doberik,</hi> in <hi>Bourdeaux,</hi> to buy Ten Pie<g ref="char:EOLhyphen"/>ces of Syrup, with ſome Wine and Brandy, and inſert his Name in the Bills of Lading, that in caſe of any Miſcarriage, the ſaid Goods ſhall be demanded in the ſaid <hi>Hunsburg</hi>'s Name, as being a Burgher of <hi>Stockholm.</hi>
+            </p>
+            <p>
+               <label>Numb. 7.</label> A Letter from <hi>Bourdeaux,</hi> from Monſieur <hi>Vanderhaguen,</hi> dated the 9th of <hi>March,</hi> 1697. to <hi>Peter Sant,</hi> Maſter of the <hi>Three Sail-makers,</hi> at <hi>Ro<g ref="char:EOLhyphen"/>chelle;</hi> and Order from his Owners, not to take in any Salt, but Freight; and to adviſe him to take Freight rather at <hi>Bourdeaux,</hi> than at <hi>Rochelle:</hi> That Skipper <hi>Grobert</hi> comes there, and hath got him a Freight for <hi>Dantzick;</hi> and that Skipper <hi>Cnak</hi> is there, and I offer him
+<pb n="10" facs="tcp:50788:7"/>a Freight for <hi>Emden,</hi> of 30 Guilders, and believe he'll take it: <hi>Corne<g ref="char:EOLhyphen"/>lius Wolfs</hi> goes to <hi>Emden</hi> for 30 Guilders; <hi>Conik,</hi> for <hi>Lubeck,</hi> for 25, 30, and 35 Guilders; the <hi>Deargarden,</hi> to <hi>Oſtend.</hi>
+            </p>
+            <p>
+               <label>Numb. 8.</label> A Letter from Meſſieurs <hi>Berend</hi> and <hi>Schroder,</hi> dated at <hi>Lubeck,</hi> the 27th of <hi>February,</hi> 1697. to Monſieur <hi>John Conrad Doberick,</hi> at <hi>Bour<g ref="char:EOLhyphen"/>deaux:</hi> He gives Orders to buy Ten Tuns of Wine, and to be loaded in a <hi>Suediſh</hi> Ship, with Convoy for the leaſt Freight poſſible hither, and under your Brother <hi>Conrad</hi>'s Name and Mark, that if it ſhould be ta<g ref="char:EOLhyphen"/>ken in <hi>England,</hi> it might be claim'd in the Owner's Names. If Bran<g ref="char:EOLhyphen"/>dy be cheap, to buy him 10 Pieces. You muſt ſend <hi>Double Letters, and Bills of Lading;</hi> one in your Brother <hi>Conrad</hi>'s, and another in my Name; and what it amounts to, draw upon me in <hi>Hambourgh.</hi>
+            </p>
+            <p>
+               <label>Numb. 11.</label> A Letter from <hi>Francis le Fever,</hi> dated at <hi>Lubeck,</hi> the 10th of <hi>Februa<g ref="char:EOLhyphen"/>ry,</hi> 1697. to Monſieur <hi>John Conrad Doberik,</hi> at <hi>Bourdeaux,</hi> That I have a Letter from your Brother <hi>Conrad Doberik,</hi> that he hath Part in 10 or 12 Ships now with you; and promiſes to reclaim the Goods that ſhall be ſhip'd in <hi>France</hi> for me, if brought up, for Two <hi>per Cent.</hi> and ſtand to the Clearing of them in <hi>England;</hi> and will have the ſaid Goods ſhip'd on Board 6 or 7 Ship.</p>
+            <p>
+               <label>Numb. 34.</label> A Letter from <hi>John Daniel Klett</hi> and <hi>Michael Woeter,</hi> dated at <hi>Lubeck,</hi> the 24th of <hi>February,</hi> 1697. to <hi>John Conrad Doberik,</hi> at <hi>Bourdeaux:</hi> He thanks him, <hi>that he permits him</hi> to ſend Wine and Brandy in his Bro<g ref="char:EOLhyphen"/>ther <hi>Conrad</hi> of <hi>Stokholm</hi>'s Name; and deſires him <hi>to ſend it in a</hi> Suede<hi>'s Ship,</hi> and <hi>that his Brother will reclaim it.</hi>
+            </p>
+            <p>
+               <label>Numb. 35.</label> A Letter from <hi>Conrad Hazentien,</hi> at <hi>Lubeck,</hi> the 4th of <hi>April,</hi> 1697. to Monſieur <hi>John Conrad Doberik,</hi> at <hi>Bourdeaux;</hi> and thanks him that he will, <hi>under his own Reclaimation,</hi> ſend him 4 or 5 Tuns of good Wine, and ſome Brandy; and if it ſhould be taken by any <hi>Engliſh</hi> Ship, <hi>&amp;c.</hi> that he would reclaim it.</p>
+            <p>
+               <label>Numb. 37.</label> A Letter from <hi>Gerhard Luder,</hi> dated at <hi>Lubeck,</hi> the 8th of <hi>November,</hi> 1696. to Monſieur <hi>John Conrad Doberik,</hi> that if Brandy comes to 60 or 70 Guilders <hi>per</hi> Piece, to buy him 20 Pieces; but if it keeps at 70 or 75 Guilders, to buy him but 10; and if it cannot be ſent this Win<g ref="char:EOLhyphen"/>ter, to keep it till the Spring. But, Couſin, you muſt let it go <hi>in your
+<pb n="11" facs="tcp:50788:7"/>Name,</hi> that in caſe it ſhould be taken, and brought into <hi>England,</hi> you might reclaim it: Let it be laden in good Ships, Freight muſt be cheap.</p>
+            <p>
+               <label>Numb. 39.</label> A Letter from <hi>John Died Doberik,</hi> dated at <hi>Lubeck,</hi> the 11th of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 1696. to <hi>John Conrad Doberik,</hi> at <hi>Bourdeaux;</hi> that if Monſieur <hi>Van<g ref="char:EOLhyphen"/>derhaguen,</hi> and my Friends in <hi>Rochelle,</hi> do not take any Part in <hi>Hans Fink</hi>'s and <hi>John Stur</hi>'s Ships, I cannot help them. I will alſo give them a Part in a Ship of two Decks, which goes off the Stocks 8 Days hence, which is about 150 Laſts: If they will not do ſo, I muſt ſell it. I am offer'd for Skipper <hi>Hans Fink</hi>'s Ship 10000 Mark Lubs, but I cannot take it, unleſs you will buy me 10 Tuns of Brandy, and draw on me for the Value.</p>
+            <p>
+               <label>Numb. 40.</label> A Letter from <hi>John Died Doberik,</hi> dated at <hi>Lubeck,</hi> the 22th of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 1696. to <hi>John Conrad Doberik,</hi> at <hi>Bourdeaux;</hi> That he is glad he will follow his Directions. <hi>First,</hi> I will ſend that Lading which is now in <hi>England,</hi> in my Ship <hi>Pelican,</hi> from <hi>Riga,</hi> to <hi>St. Martin's, under your Directions. Secondly,</hi> I have order'd that <hi>Hans Fink</hi> ſhall go upon the Owner's Account; and <hi>John Groat</hi> ſhall load Clap-boards at <hi>Riga.</hi> I have order'd Skipper <hi>Dirrekſon</hi> to load Salt, and go to <hi>Dunkirk;</hi> and the ſecond Voyage, to <hi>Bayonne,</hi> and load there.</p>
+            <p>
+               <label>Numb. 45.</label> A Letter from <hi>Gerhard Luders,</hi> dated the 1ſt of <hi>April,</hi> 1697. to <hi>John Conrad Doberik,</hi> and <hi>Bourdeaux:</hi> I am contented that if you buy 30 Pie<g ref="char:EOLhyphen"/>ces of good <hi>Bourdeaux</hi>-Brandy, to take one half Part with you; it muſt be laden in two or three Ships, and, if poſſible, your own, that if it ſhould be t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken, and brought into <hi>England,</hi> it may be <hi>reclaim'd by you.</hi>
+            </p>
+            <p>
+               <label>Numb. 53.</label> A Letter from <hi>Rouen,</hi> dated the 15th of <hi>June,</hi> 1696. from Monſieur <hi>Vanderhaguen,</hi> to Monſieur <hi>John Conrad Doberik:</hi> I have receiv'd yours of the 9th, from <hi>Rochelle,</hi> with the Bills of Lading for Skipper <hi>Ockim Groat,</hi> for 1100 of Salt. who is to come to <hi>Havre de Grace.</hi>
+            </p>
+            <p>
+               <label>Item Numb. 48.</label> An Agreement, dated at <hi>Bourdeaux,</hi> the 18th of <hi>March,</hi> 1697. where<g ref="char:EOLhyphen"/>by the Subſcribers promiſe to lade for <hi>Stade,</hi> with a Convoy, on Board the <hi>Sail-makers, Peter Sant</hi> Maſter; The Names whereof are theſe fol<g ref="char:EOLhyphen"/>lowing <hi>French</hi> Merchants; (1) <hi>Vanderhagven,</hi> (2) <hi>Ratiere,</hi> (3) <hi>Vander-Brander,</hi> (4) <hi>Dolfgave,</hi> (5) <hi>Butille,</hi> (6) <hi>Cloyce,</hi> (7) <hi>Leuques,</hi> (8) <hi>Dupré,</hi> n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d (9) <hi>Videroy.</hi>
+            </p>
+            <pb n="12" facs="tcp:50788:8"/>
+            <p>
+               <label>Numb. 99.</label> A Letter, dated at <hi>Bourdeaux,</hi> the 3d. of <hi>Auguſt,</hi> 1696. from <hi>Gerhard Vanderhaguen,</hi> to <hi>John Conrad Doberik,</hi> then at St. <hi>Sebaſtian;</hi> adviſing, that <hi>Vanberg</hi> writes, that <hi>Gerhard Peterſen</hi> and <hi>Van Coelen</hi> had received Orders from <hi>Andrew Dirckeſen</hi>'s Owners to lade him, if he had taken a freight for <hi>Hambrough,</hi> at 53 Mark Lubs: It would have been better, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Numb. 116.</label> A Letter from <hi>Peter Clerk,</hi> to <hi>John Conrad Doberik,</hi> dated at <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> the 9th. of <hi>July,</hi> 1696, adviſing, That the <hi>Suediſh</hi> Convoy (from <hi>France</hi>) had paſs'd the Chanel, and was ſafely arrived in the <hi>Soundt;</hi> and all the Ships bound both to the <hi>Elbe,</hi> and other places, without any Diſturbance that he heard of; which is very happy.</p>
+            <p>
+               <label>Numb. 238.</label> A Letter dated at <hi>Bourdeaux,</hi> the 26th. of <hi>July,</hi> 1696. to <hi>John Conrad Doberik,</hi> then at St. <hi>Sebaſtian,</hi> adviſing, that all the Ships that ſail'd un<g ref="char:EOLhyphen"/>der the Convoy, are ſafe arrived at <hi>Embden, Bremen, Hambourgh</hi> and <hi>Lubeck;</hi> and not one miſſing. I ſee you will truſt to my Paper for your Account, with which I am ſatisfied. I thank you, that you will help <hi>Martin Franc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> I have bought a Fly-boat here, of 230 Tuns, for a good Friend; and would gladly let her ſail under your Name, on condition, that you ſhould have a certain profit for it; and aſſuring my ſelf, that you will not refuſe me, ſeeing it can be done without prejudice to you. I have cauſed the Bill of Sale to be made in your Name, <hi>viz.</hi> That I have bought the ſaid Ship for your Ac<g ref="char:EOLhyphen"/>count and Adventure: Now I would fain have a Skipper come from <hi>Stockholm,</hi> who is a Burgher there, and I judge it to be neceſſary: Firſt, that a Notarial Bill of Sale be ſent over. 2dly, That a Decla<g ref="char:EOLhyphen"/>ration be made before a Notary and Witneſſes, that the ſaid Ship doth belong to you. 3dly, That you write a Letter to the Magiſtrate of <hi>Stockholm,</hi> to grant you a Paſs; and 4thly, To write a Letter to Mr. <hi>Conrad,</hi> to ſend ſuch a Maſter with a Paſs, with Order to follow my Direction, whilſt you are in <hi>Spain.</hi> When you come hither, we ſhall agree what you ſhall have for each Paſs that you ſhall ſend for her. The Declaration before a Notary I ſhall ſend you to ſign, and the Witneſſes who ſubſcribe, ſhall be <hi>Anke Willemſon, Marcus Begman,</hi> and the Broker, they not knowing otherwiſe, but that I bought the Ship for your Account; in this manner of Paſs can be denied, and when once a Paſs is taken out, one may always be had, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="13" facs="tcp:50788:8"/>
+            <head>A COPY of an Account, which being found amongſt the other Ship-Papers and Writings, ſhews, how Foreign Merchants have made uſe of the <hi>Suede</hi>'s Name, for which the <hi>Suede</hi> was paid <hi>Two per Cent.</hi>
+            </head>
+            <p>
+               <table>
+                  <head>The Parties concern'd in the Ship <hi>St. Paul</hi> are to pay the the following Charges, on Account of their Goods.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Rix-Dollars.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR Charges expended in <hi>Stockholm, &amp;c.</hi> according to the Specification</cell>
+                     <cell>575 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>The Ship did lie 10 Months waiting for the Goods, the Payment whereof to the Ship's Crew, amounts to</cell>
+                     <cell>1000 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>For Board-Wages, and Victuals</cell>
+                     <cell>750 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>Paid to Mr. <hi>Wiſniſh</hi>
+                     </cell>
+                     <cell>520 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> To Monſieur <hi>Grady</hi>
+                     </cell>
+                     <cell>200 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>The Expences of my Voyage from <hi>Stockholm</hi> amount to</cell>
+                     <cell>500 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> To return thither.</cell>
+                     <cell>500 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>For my Trouble</cell>
+                     <cell>1000 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>In lieu of the Money, I have taken 5800 Neyens of Salt, <hi>à</hi> 1 ½ Real</cell>
+                     <cell>870 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>To make good the Damage done to the Ship, for the ſpace of 10 Months; as alſo, the Loſs of the Freight within that Time</cell>
+                     <cell>1000 0 0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">6915 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>For our Agreement to let the Value of 16000 <hi>Rix-Dollars</hi> of the Goods go <hi>under our Name,</hi> I reckon <hi>Two per Cent.</hi>
+                     </cell>
+                     <cell>320 0 0</cell>
+                  </row>
+                  <row>
+                     <cell>One Quarter Part Freight</cell>
+                     <cell>1000 0 0</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Rix-Dollars</hi>
+                     </cell>
+                     <cell role="total">8235 0 0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="14" facs="tcp:50788:9"/>
+            <head>Note.</head>
+            <p>THat there are five Brothers of the <hi>Doberiks,</hi> who were all born at <hi>Lubeck;</hi> the firſt whereof, whoſe Chriſtian Name is <hi>Conrad,</hi> did live, and lately died in <hi>Stockholm;</hi> the ſecond, <hi>John Conrad,</hi> has no fixed Abode, but has been theſe two Years laſt paſt in <hi>France,</hi> at <hi>Bourdeaux, St. Martins, &amp;c.</hi> The third <hi>John Died,</hi> lives in <hi>Lubek;</hi> the fourth <hi>Paul,</hi> at <hi>Amſterdam;</hi> and the fifth, at <hi>Norimberg.</hi> The Frater<g ref="char:EOLhyphen"/>nel and unanimous Underſtanding of theſe five Brothers, living in ſe<g ref="char:EOLhyphen"/>veral remote places, fit for carrying on ſuch a Trade, did engage and draw in a great many Perſons in the ſaid unlawful Commerce.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
